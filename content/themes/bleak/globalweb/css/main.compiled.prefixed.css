@@ -213,7 +213,9 @@ header {
       @media screen and (min-width: 1170px) {
         .block.block-header p {
           font-size: 2rem;
-          margin: 40px auto; } }
+          margin: 40px auto;
+          font-style: italic;
+          font-weight: 300; } }
     @media screen and (min-width: 820px) {
       .block.block-header .headline {
         display: none; } }
