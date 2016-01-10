@@ -209,13 +209,15 @@ header {
     background: #b1adaa; }
     .block.block-header p {
       max-width: 950px;
-      margin: auto; }
+      margin: auto;
+      font-style: italic;
+      font-weight: 300; }
+      .block.block-header p strong {
+        font-weight: 600; }
       @media screen and (min-width: 1170px) {
         .block.block-header p {
           font-size: 2rem;
-          margin: 40px auto;
-          font-style: italic;
-          font-weight: 300; } }
+          margin: 40px auto; } }
     @media screen and (min-width: 820px) {
       .block.block-header .headline {
         display: none; } }
