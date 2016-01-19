@@ -12,7 +12,7 @@
   "dependencies": {
     "Casper": "TryGhost/Casper#1.2.7",
     "ghost": "0.7.5",
-    "ghost-s3-storage": "~0.2.2",
+    "ghost-s3-storage": "cadecairos/ghost-s3#849445e",
     "ncp": "^2.0.0",
     "pg": "latest"
   },
